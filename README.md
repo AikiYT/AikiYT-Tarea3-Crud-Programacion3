@@ -4,7 +4,7 @@ Este proyecto es un CRUD de usuarios desarrollado con HTML, CSS y JavaScript pur
 
 ✨ Características del Proyecto
 
-Crear, leer, actualizar y eliminar usuarios.
+Crear, leer, actualizar(nota: para actualizar debe darle a editar y luego escribir en el input), y eliminar usuarios.
 
 Validación de campos (por ejemplo, ID numérico).
 
