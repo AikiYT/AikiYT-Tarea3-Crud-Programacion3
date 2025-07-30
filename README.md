@@ -1,4 +1,4 @@
-<img width="1115" height="502" alt="image" src="https://github.com/user-attachments/assets/fb455657-328e-474d-a300-d595d3f2fd57" />CRUD de Usuarios con Git Flow
+
 
 Este proyecto es un CRUD de usuarios desarrollado con HTML, CSS y JavaScript puro, siguiendo el flujo de trabajo Git Flow y alojado en GitHub.
 
