@@ -2,7 +2,7 @@
 
 Este proyecto es un CRUD de usuarios desarrollado con HTML, CSS y JavaScript puro, siguiendo el flujo de trabajo Git Flow y alojado en GitHub.
 
-✨ Características del Proyecto
+ Características del Proyecto
 
 Crear, leer, actualizar(nota: para actualizar debe darle a editar y luego escribir en el input), y eliminar usuarios.
 
@@ -16,9 +16,9 @@ Totalmente en el navegador (no necesita backend).
 Estructura del proyecto:
 <img width="1115" height="502" alt="image" src="https://github.com/user-attachments/assets/34f6a57f-09f6-425e-b5ca-c22d919cf506" />
 
-🚀 Ver en vivo (GitHub Pages) https://aikiyt.github.io/AikiYT-Tarea3-Crud-Programacion3/
+ Ver en vivo (GitHub Pages) https://aikiyt.github.io/AikiYT-Tarea3-Crud-Programacion3/
 
-📋 Git Flow aplicado
+Git Flow aplicado
 
 Se siguieron los pasos del flujo Git Flow:
 
